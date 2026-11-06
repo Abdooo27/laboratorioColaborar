@@ -15,10 +15,12 @@ public class Main {
 
             if (edad1 < 13) {
                 System.out.println("Se le aplicará la tarifa para niños.");
+                System.out.print(" 6.99€");
             }
 
             else {
                 System.out.println("Se le aplicará la tarifa de adulto.");
+                System.out.print(" 9.99€");
             }
         }
 
