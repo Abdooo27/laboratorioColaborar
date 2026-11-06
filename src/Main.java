@@ -15,7 +15,7 @@ public class Main {
 
             if (edad1 < 13) {
                 System.out.println("Se le aplicará la tarifa para niños.");
-                System.out.print(" 6.99€");
+                System.out.print(" 7.99€");
             }
 
             else {
