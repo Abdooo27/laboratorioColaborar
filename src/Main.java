@@ -8,7 +8,7 @@ public class Main {
         {
 
             int edad1;
-            System.out.println("Bienvenido a Cines ABC");
+            System.out.println("Bienvenido a Cines ABC - Abdo");
             System.out.print("Introduzca su edad: ");
             Scanner scanner = new Scanner(System.in);
             edad1 = scanner.nextInt();
