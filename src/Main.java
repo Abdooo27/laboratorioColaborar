@@ -7,13 +7,13 @@ public class Main {
 
         {
 
-            int edad;
+            int edad1;
             System.out.println("Bienvenido a Cines ABC");
             System.out.print("Introduzca su edad: ");
             Scanner scanner = new Scanner(System.in);
-            edad = scanner.nextInt();
+            edad1 = scanner.nextInt();
 
-            if (edad < 13) {
+            if (edad1 < 13) {
                 System.out.println("Se le aplicará la tarifa para niños.");
             }
 
